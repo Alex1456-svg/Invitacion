@@ -1,5 +1,5 @@
 const introText = document.querySelector(".text-intro");
-introText.innerHTML = `¡Hola Jaqueline! Tira del cordón porfiis😊❤️.`;
+introText.innerHTML = `¡Hola! Tira del cordón porfiis😊❤️.`;
 const engine = Matter.Engine.create();
 const world = engine.world;
 
